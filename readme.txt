@@ -6,3 +6,4 @@ ajout du fichier 'index.html'
 ajout du fichier 'fichiercss.css'
 modification du fichier 'index.html' :
   ajout section
+mise a jour du fichier readme.md à paertir de brackets 
